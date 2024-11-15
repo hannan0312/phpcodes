@@ -1,6 +1,6 @@
 <?php
 
-$array = ["Ali","Hyder","Sara", "Zahak","ifrah"];
+$array = ["Ali","Hyder","Sara", "Zahak","ifrah" ,'Hello'];
 
 rsort($array);
 for($i = 0 ; $i <= 4 ; $i++){
